@@ -1,0 +1,23 @@
+{
+    "files": [
+      {
+        "id": 1,
+        "name": "file1.txt",
+        "size": 1024,
+        "type": "text/plain"
+      },
+      {
+        "id": 2,
+        "name": "file2.jpg",
+        "size": 2048,
+        "type": "image/jpeg"
+      },
+      {
+        "id": 3,
+        "name": "file3.pdf",
+        "size": 4096,
+        "type": "application/pdf"
+      }
+    ]
+  }
+  
